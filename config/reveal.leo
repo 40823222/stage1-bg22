@@ -226,7 +226,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
     &lt;section&gt;
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="500" src="./../images/coppeliaSim.png" width="500"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="375" src="./../images/coppeliaSim.png" width="700"/&gt;&lt;/p&gt;
     &lt;/section&gt;
 
 
@@ -352,17 +352,17 @@ vertical: body pane on the botton</t>
     &lt;/section&gt;</t>
 <t tx="lep.20210318002609.1">    &lt;section&gt;
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="300" src="./../images/本體數據.png" width="300"/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="" height="300" src="./../images/本體.png" width="300"/&gt;&lt;/p&gt;
+    &lt;/p&gt;&lt;p&gt;&lt;img alt="" height="300" src="./../images/本體.png" width="300"/&gt;&lt;/p&gt;
     &lt;h4&gt;設定本體的數據&lt;/h4&gt;    
     &lt;/section&gt;</t>
 <t tx="lep.20210318002843.1">    &lt;section&gt;
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="300" src="./../images/本體數據.png" width="300"/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="" height="300" src="./../images/旋轉軸數據.png" width="300"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="300" src="./../images/旋轉軸數據.png" width="300"/&gt;&lt;/p&gt;
     &lt;h4&gt;設定旋轉軸的數據&lt;/h4&gt;    
     &lt;/section&gt;</t>
 <t tx="lep.20210318003123.1">    &lt;section&gt;
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="300" src="./../images/旋轉軸程式.png" width="300"/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="" height="300" src="./../images/馬達.png" width="300"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="300" src="./../images/馬達.png" width="300"/&gt;&lt;/p&gt;
     &lt;h4&gt;設定馬達的數據&lt;/h4&gt;    
     &lt;/section&gt;
 &lt;/section&gt;
