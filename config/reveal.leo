@@ -311,11 +311,11 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="lep.20210317190537.1">&lt;section&gt;
+<t tx="lep.20210317190537.1">    &lt;section&gt;
     &lt;h3&gt;錐刀組&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="281" src="./../images/錐刀組.png" width="500"/&gt;&lt;/p&gt;
     
-&lt;/section&gt;
+    &lt;/section&gt;
 </t>
 </tnodes>
 </leo_file>
