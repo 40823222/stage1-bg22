@@ -209,7 +209,7 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
-    &lt;h1&gt;構造原理&lt;/h1&gt;
+    &lt;h1&gt;原理&lt;/h1&gt;
     &lt;h2&gt;利用輾壓研磨原理，讓咖啡豆在兩塊圓錐鐵中輾壓研磨，錐鐵的距離決定咖啡粉的粗細程度，錐鐵間的距離愈近，粉末愈細；反之，粉末愈粗。&lt;/h2&gt;
     
 &lt;/section&gt;
@@ -251,7 +251,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171312.1">&lt;section&gt;
         &lt;section&gt;
         &lt;h2&gt;40823222心得&lt;/h2&gt;
-        &lt;h4&gt;&lt;/h4&gt;
+        &lt;h6&gt;&lt;/h6&gt;
         &lt;/section&gt;
  &lt;/section&gt;</t>
 <t tx="lep.20210317190537.1">    &lt;section&gt;
@@ -333,13 +333,13 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
     &lt;h5&gt;第三次測試模擬&lt;/h5&gt;
     &lt;p&gt;&lt;img alt="" height="295" src="./../images/磨豆機完整版.gif" width="550"/&gt;&lt;/p&gt;
-    &lt;h6&gt;增加外殼後，進行內部旋轉軸的測試，能正常運作。&lt;/h6&gt;
+    &lt;h6&gt;增加外殼後，因進行內部旋轉軸的測試，使外殼隱藏，而內部能正常運作。&lt;/h6&gt;
     &lt;/section&gt;
 &lt;/section&gt;</t>
 <t tx="lep.20210318041027.1">&lt;section&gt;
         &lt;section&gt;
         &lt;h2&gt;40823244心得&lt;/h2&gt;
-        &lt;h4&gt;&lt;/h4&gt;
+        &lt;h6&gt;&lt;/h6&gt;
         &lt;/section&gt;
  &lt;/section&gt;</t>
 </tnodes>
