@@ -30,7 +30,13 @@
 <v t="lep.20210317192736.1"><vh>silde4-6</vh></v>
 <v t="lep.20210317192801.1"><vh>silde4-7</vh></v>
 </v>
-<v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
+<v t="leo.20200818171138.1"><vh>slide 5 </vh>
+<v t="lep.20210318001822.1"><vh>slide5-1</vh></v>
+<v t="lep.20210318002455.1"><vh>slide5-2</vh></v>
+<v t="lep.20210318002609.1"><vh>slide5-3</vh></v>
+<v t="lep.20210318002843.1"><vh>slide5-4</vh></v>
+<v t="lep.20210318003123.1"><vh>slide5-5</vh></v>
+</v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
@@ -219,8 +225,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
     &lt;section&gt;
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
-    
-&lt;/section&gt;
+    &lt;p&gt;&lt;img alt="" height="268" src="./../images/coppeliaSim.png" width="500"/&gt;&lt;/p&gt;
+    &lt;section&gt;
+
 
 </t>
 <t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
@@ -338,5 +345,30 @@ vertical: body pane on the botton</t>
     &lt;/section&gt;
     
 &lt;/section&gt;</t>
+<t tx="lep.20210318001822.1">    &lt;section&gt;
+    &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="497" src="./../images/磨豆機圖片.png" width="500"/&gt;&lt;/p&gt;
+    &lt;small&gt;Body-本體 Shell-外殼 Upper_cover-上蓋  revolute_cover-旋轉接頭  axis-旋轉軸&lt;/small&gt;
+    &lt;section&gt;</t>
+<t tx="lep.20210318002455.1">    &lt;section&gt;
+    &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="497" src="./../images/磨豆機圖片.png" width="500"/&gt;&lt;/p&gt;
+    &lt;small&gt;Body-本體 Shell-外殼 Upper_cover-上蓋  revolute_cover-旋轉接頭  axis-旋轉軸&lt;/small&gt;
+    &lt;/section&gt;</t>
+<t tx="lep.20210318002609.1">    &lt;section&gt;
+    &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="570" src="./../images/本體數據.png" width="500"/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="" height="695" src="./../images/本體.png" width="500"/&gt;&lt;/p&gt;
+    &lt;h4&gt;設定本體的數據&lt;/h4&gt;    
+    &lt;/section&gt;</t>
+<t tx="lep.20210318002843.1">    &lt;section&gt;
+    &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="570" src="./../images/本體數據.png" width="500"/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="" height="598" src="./../images/旋轉軸數據.png" width="500"/&gt;&lt;/p&gt;
+    &lt;h4&gt;設定旋轉軸的數據&lt;/h4&gt;    
+    &lt;/section&gt;</t>
+<t tx="lep.20210318003123.1">    &lt;section&gt;
+    &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="617" src="./../images/旋轉軸程式.png" width="500"/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="" height="553" src="./../images/馬達.png" width="500"/&gt;&lt;/p&gt;
+    &lt;h4&gt;設定馬達的數據&lt;/h4&gt;    
+    &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
