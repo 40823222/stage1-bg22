@@ -29,6 +29,8 @@
 <v t="lep.20210317192729.1"><vh>silde4-5</vh></v>
 <v t="lep.20210317192736.1"><vh>silde4-6</vh></v>
 <v t="lep.20210317192801.1"><vh>silde4-7</vh></v>
+<v t="lep.20210318004530.1"><vh>slide4-8</vh></v>
+<v t="lep.20210318004614.1"><vh>slide4-9</vh></v>
 </v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh>
 <v t="lep.20210318001822.1"><vh>slide5-1</vh></v>
@@ -226,7 +228,7 @@ vertical: body pane on the botton</t>
     &lt;section&gt;
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
     &lt;p&gt;&lt;img alt="" height="268" src="./../images/coppeliaSim.png" width="500"/&gt;&lt;/p&gt;
-    &lt;section&gt;
+    &lt;/section&gt;
 
 
 </t>
@@ -343,13 +345,12 @@ vertical: body pane on the botton</t>
     &lt;h3&gt;分量撥粉器&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="322" src="./../images/分量波粉器.png" width="500"/&gt;&lt;/p&gt;
     &lt;/section&gt;
-    
-&lt;/section&gt;</t>
+    </t>
 <t tx="lep.20210318001822.1">    &lt;section&gt;
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
     &lt;p&gt;&lt;img alt="" height="497" src="./../images/磨豆機圖片.png" width="500"/&gt;&lt;/p&gt;
     &lt;small&gt;Body-本體 Shell-外殼 Upper_cover-上蓋  revolute_cover-旋轉接頭  axis-旋轉軸&lt;/small&gt;
-    &lt;section&gt;</t>
+    &lt;/section&gt;</t>
 <t tx="lep.20210318002455.1">    &lt;section&gt;
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
     &lt;p&gt;&lt;img alt="" height="497" src="./../images/磨豆機圖片.png" width="500"/&gt;&lt;/p&gt;
@@ -372,5 +373,15 @@ vertical: body pane on the botton</t>
     &lt;/section&gt;
 &lt;/section&gt;
 </t>
+<t tx="lep.20210318004530.1">    &lt;section&gt;
+    &lt;h3&gt;外殼&lt;/h3&gt;
+    &lt;p&gt;&lt;img alt="" height="334" src="./../images/外殼.png" width="500"/&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    </t>
+<t tx="lep.20210318004614.1">    &lt;section&gt;
+    &lt;h3&gt;裝粉盒&lt;/h3&gt;
+    &lt;p&gt;&lt;img alt="" height="301" src="./../images/裝粉盒.png" width="500"/&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;    </t>
 </tnodes>
 </leo_file>
