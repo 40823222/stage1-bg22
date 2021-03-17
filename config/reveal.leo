@@ -44,7 +44,7 @@
 </v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
-<v t="lep.20210318041027.1"><vh>slide9</vh></v>
+<v t="lep.20210318041027.1"><vh>slide 9</vh></v>
 </v>
 </v>
 </v>
@@ -249,8 +249,10 @@ vertical: body pane on the botton</t>
              &lt;/section&gt;
 &lt;section&gt;</t>
 <t tx="leo.20200818171312.1">&lt;section&gt;
-            &lt;h2&gt;40823222心得&lt;/h2&gt;
-            &lt;h4&gt;&lt;/h4&gt;
+        &lt;section&gt;
+        &lt;h2&gt;40823222心得&lt;/h2&gt;
+        &lt;h4&gt;&lt;/h4&gt;
+        &lt;/section&gt;
  &lt;/section&gt;</t>
 <t tx="lep.20210317190537.1">    &lt;section&gt;
     &lt;h3&gt;錐刀組&lt;/h3&gt;
@@ -335,8 +337,10 @@ vertical: body pane on the botton</t>
     &lt;/section&gt;
 &lt;/section&gt;</t>
 <t tx="lep.20210318041027.1">&lt;section&gt;
-            &lt;h2&gt;40823244心得&lt;/h2&gt;
-            &lt;h4&gt;&lt;/h4&gt;
+        &lt;section&gt;
+        &lt;h2&gt;40823244心得&lt;/h2&gt;
+        &lt;h4&gt;&lt;/h4&gt;
+        &lt;/section&gt;
  &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
