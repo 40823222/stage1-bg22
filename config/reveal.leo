@@ -44,6 +44,7 @@
 </v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
+<v t="lep.20210318041027.1"><vh>slide9</vh></v>
 </v>
 </v>
 </v>
@@ -243,19 +244,14 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
              &lt;section&gt;
              &lt;h2&gt;使用cms.bat、acp.bat&lt;/h2&gt;
+             &lt;img alt="" height="262" src="./../images/cms.gif" width="500"/&gt;
              &lt;h6&gt;節省時間打開動態網頁，推送網站，之後會有4人、8人小組進行推送的動作，使用cms.bat、acp.bap能夠更方便的進行操作&lt;/h6&gt;
              &lt;/section&gt;
 &lt;section&gt;</t>
-<t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;h2&gt;Auto-Animate&lt;/h2&gt;
-    &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-</t>
+<t tx="leo.20200818171312.1">&lt;section&gt;
+            &lt;h2&gt;40823222心得&lt;/h2&gt;
+            &lt;h4&gt;&lt;/h4&gt;
+ &lt;/section&gt;</t>
 <t tx="lep.20210317190537.1">    &lt;section&gt;
     &lt;h3&gt;錐刀組&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="359" src="./../images/錐刀.png" width="500"/&gt;&lt;/p&gt;
@@ -338,5 +334,9 @@ vertical: body pane on the botton</t>
     &lt;h6&gt;增加外殼後，進行內部旋轉軸的測試，能正常運作。&lt;/h6&gt;
     &lt;/section&gt;
 &lt;/section&gt;</t>
+<t tx="lep.20210318041027.1">&lt;section&gt;
+            &lt;h2&gt;40823244心得&lt;/h2&gt;
+            &lt;h4&gt;&lt;/h4&gt;
+ &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
