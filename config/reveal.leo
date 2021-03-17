@@ -21,7 +21,7 @@
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 <v t="leo.20200818170636.1"><vh>slide 3</vh></v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="lep.20210317190537.1"><vh>silde4-1</vh></v>
 <v t="lep.20210317191545.1"><vh>silde4-2</vh></v>
 <v t="lep.20210317192628.1"><vh>silde4-3</vh></v>
@@ -29,7 +29,6 @@
 <v t="lep.20210317192729.1"><vh>silde4-5</vh></v>
 <v t="lep.20210317192736.1"><vh>silde4-6</vh></v>
 <v t="lep.20210317192801.1"><vh>silde4-7</vh></v>
-</v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
