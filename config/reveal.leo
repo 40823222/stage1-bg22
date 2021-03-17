@@ -38,11 +38,12 @@
 <v t="lep.20210318002843.1"><vh>slide5-3</vh></v>
 <v t="lep.20210318003123.1"><vh>slide5-4</vh></v>
 </v>
-<v t="leo.20200818171215.1"><vh>slide 6</vh></v>
+<v t="leo.20200818171215.1"><vh>slide 6</vh>
+<v t="lep.20210318025530.1"><vh>slide6-1</vh></v>
+<v t="lep.20210318025837.1"><vh>slide6-2</vh></v>
+</v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
-<v t="leo.20200818171344.1"><vh>slide 9</vh></v>
-<v t="leo.20200818171412.1"><vh>slide 10</vh></v>
 </v>
 </v>
 </v>
@@ -200,7 +201,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;自動磨豆機&lt;/h2&gt;
-   &lt;p&gt;&lt;img alt="" height="343" src="./../images/自動咖啡磨豆機繪製圖 (2).png" width="500"/&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;img caption="false" height="368" src="./../images/外殼.png" width="550"/&gt;&lt;/p&gt;
    &lt;h4&gt;動機:適合給予喜愛手沖咖啡的人&lt;/h4&gt;
    
 &lt;/section&gt;
@@ -217,7 +218,7 @@ vertical: body pane on the botton</t>
     &lt;section&gt;  
     &lt;h2&gt;繪製零件圖&lt;/h2&gt;
     &lt;h3&gt;本體&lt;/h3&gt;
-    &lt;p&gt;&lt;img alt="" height="343" src="./../images/自動咖啡磨豆機繪製圖 (2).png" width="500"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img caption="false" height="368" src="./../images/外殼.png" width="550"/&gt;&lt;/p&gt;
     
     &lt;/section&gt;
 
@@ -231,39 +232,13 @@ vertical: body pane on the botton</t>
 
 
 </t>
-<t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
+<t tx="leo.20200818171215.1">&lt;section&gt;
+     &lt;section&gt;
+     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
+     &lt;h5&gt;第一次測試模擬&lt;/h5&gt;
+     &lt;p&gt;&lt;img caption="false" height="300" src="./../images/測試.gif" width="550"/&gt;&lt;/p&gt;
+     &lt;h6&gt;問題所在:旋轉軸無法正常帶動錐型刀轉動，程式模擬操作錯誤&lt;/h6&gt;
+     &lt;/section&gt;
 </t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
     &lt;h2&gt;Point of View&lt;/h2&gt;
@@ -288,25 +263,6 @@ vertical: body pane on the botton</t>
         &lt;div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
     &lt;/div&gt;
 &lt;/section&gt;
-</t>
-<t tx="leo.20200818171344.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" data-auto-animate-delay="0.2" style="background: yellow; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171412.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-stack"&gt;
-        &lt;div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-
 </t>
 <t tx="lep.20210317190537.1">    &lt;section&gt;
     &lt;h3&gt;錐刀組&lt;/h3&gt;
@@ -352,18 +308,18 @@ vertical: body pane on the botton</t>
     &lt;/section&gt;</t>
 <t tx="lep.20210318002609.1">    &lt;section&gt;
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
-    &lt;/p&gt;&lt;p&gt;&lt;img alt="" height="300" src="./../images/本體.png" width="300"/&gt;&lt;/p&gt;
-    &lt;h4&gt;設定本體的數據&lt;/h4&gt;    
+    &lt;/p&gt;&lt;p&gt;&lt;img alt="" height="400" src="./../images/本體.png" width="400"/&gt;&lt;/p&gt;
+    &lt;h4&gt;設定本體的動態特性&lt;/h4&gt;    
     &lt;/section&gt;</t>
 <t tx="lep.20210318002843.1">    &lt;section&gt;
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="300" src="./../images/旋轉軸數據.png" width="300"/&gt;&lt;/p&gt;
-    &lt;h4&gt;設定旋轉軸的數據&lt;/h4&gt;    
+    &lt;p&gt;&lt;img alt="" height="400" src="./../images/旋轉軸數據.png" width="400"/&gt;&lt;/p&gt;
+    &lt;h4&gt;設定旋轉軸的動態特性&lt;/h4&gt;    
     &lt;/section&gt;</t>
 <t tx="lep.20210318003123.1">    &lt;section&gt;
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="300" src="./../images/馬達.png" width="300"/&gt;&lt;/p&gt;
-    &lt;h4&gt;設定馬達的數據&lt;/h4&gt;    
+    &lt;p&gt;&lt;img alt="" height="400" src="./../images/馬達.png" width="400"/&gt;&lt;/p&gt;
+    &lt;h4&gt;設定馬達的動態特性&lt;/h4&gt;    
     &lt;/section&gt;
 &lt;/section&gt;
 </t>
@@ -377,5 +333,18 @@ vertical: body pane on the botton</t>
     &lt;p&gt;&lt;img alt="" height="301" src="./../images/裝粉盒.png" width="500"/&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;    </t>
+<t tx="lep.20210318025530.1">    &lt;section&gt;
+    &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
+    &lt;h5&gt;第二次測試模擬&lt;/h5&gt;
+    &lt;p&gt;&lt;img alt="" height="295" src="./../images/測試2.gif" width="550"/&gt;&lt;/p&gt;
+    &lt;h6&gt;發現問題的所在，並進行程式的修改，旋轉軸正常的運作，缺乏外殼。&lt;/h6&gt;
+    &lt;/section&gt;</t>
+<t tx="lep.20210318025837.1">    &lt;section&gt;
+    &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
+    &lt;h5&gt;第三次測試模擬&lt;/h5&gt;
+    &lt;p&gt;&lt;img alt="" height="295" src="./../images/磨豆機完整版.gif" width="550"/&gt;&lt;/p&gt;
+    &lt;h6&gt;增加外殼後，進行內部旋轉軸的測試，能正常運作。&lt;/h6&gt;
+    &lt;/section&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
