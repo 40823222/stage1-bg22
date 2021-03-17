@@ -23,6 +23,12 @@
 <v t="leo.20200818170636.1"><vh>slide 3</vh></v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh>
 <v t="lep.20210317190537.1"><vh>silde4-1</vh></v>
+<v t="lep.20210317191545.1"><vh>silde4-2</vh></v>
+<v t="lep.20210317192628.1"><vh>silde4-3</vh></v>
+<v t="lep.20210317192711.1"><vh>silde4-4</vh></v>
+<v t="lep.20210317192729.1"><vh>silde4-5</vh></v>
+<v t="lep.20210317192736.1"><vh>silde4-6</vh></v>
+<v t="lep.20210317192801.1"><vh>silde4-7</vh></v>
 </v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
@@ -311,11 +317,50 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="lep.20210317190537.1">    &lt;section&gt;
+<t tx="lep.20210317190537.1">&lt;section&gt;
+    &lt;section&gt;
     &lt;h3&gt;錐刀組&lt;/h3&gt;
-    &lt;p&gt;&lt;img alt="" height="281" src="./../images/錐刀組.png" width="500"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="359" src="./../images/錐刀.png" width="500"/&gt;&lt;/p&gt;
     
     &lt;/section&gt;
 </t>
+<t tx="lep.20210317191545.1">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h3&gt;旋轉軸&lt;/h3&gt;
+    &lt;p&gt;&lt;img alt="" height="382" src="./../images/旋轉軸.png" width="500"/&gt;&lt;/p&gt;
+    
+    &lt;/section&gt;
+</t>
+<t tx="lep.20210317192628.1">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h3&gt;漏斗&lt;/h3&gt;
+    &lt;p&gt;&lt;img alt="" height="373" src="./../images/漏斗.png" width="500"/&gt;&lt;/p&gt;
+    
+    &lt;/section&gt;</t>
+<t tx="lep.20210317192711.1">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h3&gt;錐刀組與外殼&lt;/h3&gt;
+    &lt;p&gt;&lt;img alt="" height="304" src="./../images/錐刀組與外殼.png" width="500"/&gt;&lt;/p&gt;
+    
+    &lt;/section&gt;</t>
+<t tx="lep.20210317192729.1">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h3&gt;錐型進豆槽與外殼&lt;/h3&gt;
+    &lt;p&gt;&lt;img alt="" height="304" src="./../images/錐刀組與外殼.png" width="500"/&gt;&lt;/p&gt;
+    
+    &lt;/section&gt;</t>
+<t tx="lep.20210317192736.1">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h3&gt;上蓋&lt;/h3&gt;
+    &lt;p&gt;&lt;img alt="" height="278" src="./../images/上蓋.png" width="500"/&gt;&lt;/p&gt;
+    
+    &lt;/section&gt;</t>
+<t tx="lep.20210317192801.1">&lt;section&gt;
+    &lt;section&gt;
+    &lt;h3&gt;分量撥粉器&lt;/h3&gt;
+    &lt;p&gt;&lt;img alt="" height="322" src="./../images/分量波粉器.png" width="500"/&gt;&lt;/p&gt;
+    
+    &lt;/section&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
