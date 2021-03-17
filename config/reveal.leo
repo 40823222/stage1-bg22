@@ -208,11 +208,13 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
+    &lt;section&gt;  
     &lt;h2&gt;繪製零件圖&lt;/h2&gt;
     &lt;h3&gt;本體&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="343" src="./../images/自動咖啡磨豆機繪製圖 (2).png" width="500"/&gt;&lt;/p&gt;
     
-&lt;/section&gt;
+    &lt;/section&gt;
+
 
 </t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
@@ -359,8 +361,8 @@ vertical: body pane on the botton</t>
     &lt;section&gt;
     &lt;h3&gt;分量撥粉器&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="322" src="./../images/分量波粉器.png" width="500"/&gt;&lt;/p&gt;
-    
     &lt;/section&gt;
+    
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
