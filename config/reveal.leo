@@ -245,7 +245,7 @@ vertical: body pane on the botton</t>
              &lt;section&gt;
              &lt;h2&gt;使用cms.bat、acp.bat&lt;/h2&gt;
              &lt;img alt="" height="314" src="./../images/cms.gif" width="600"/&gt;
-             &lt;h6&gt;節省時間打開動態網頁，推送網站，之後會有4人、8人小組進行推送的動作，使用cms.bat、acp.bap能夠更方便的進行操作&lt;/h6&gt;
+             &lt;h6&gt;節省時間打開動態網頁，推送網站，之後會有4人、8人小組進行推送的動作，使用cms.bat、acp.bat能夠更方便的進行操作&lt;/h6&gt;
              &lt;/section&gt;
 &lt;section&gt;</t>
 <t tx="leo.20200818171312.1">&lt;section&gt;
