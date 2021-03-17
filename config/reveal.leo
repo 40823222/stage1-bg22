@@ -369,6 +369,8 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
     &lt;p&gt;&lt;img alt="" height="617" src="./../images/旋轉軸程式.png" width="500"/&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="" height="553" src="./../images/馬達.png" width="500"/&gt;&lt;/p&gt;
     &lt;h4&gt;設定馬達的數據&lt;/h4&gt;    
-    &lt;/section&gt;</t>
+    &lt;/section&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
