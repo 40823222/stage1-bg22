@@ -21,7 +21,9 @@
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 <v t="leo.20200818170636.1"><vh>slide 3</vh></v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="lep.20210317190537.1"><vh>silde4-1</vh></v>
+</v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
@@ -186,7 +188,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;自動磨豆機&lt;/h2&gt;
-   &lt;p&gt;&lt;img alt="" height="343" src="/images/自動咖啡磨豆機繪製圖 (2).png" width="500"&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;img alt="" height="343" src="./../images/自動咖啡磨豆機繪製圖 (2).png" width="500"/&gt;&lt;/p&gt;
    &lt;h4&gt;動機:適合給予喜愛手沖咖啡的人&lt;/h4&gt;
    
 &lt;/section&gt;
@@ -200,10 +202,10 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+    &lt;h2&gt;繪製零件圖&lt;/h2&gt;
+    &lt;h3&gt;本體&lt;/h3&gt;
+    &lt;p&gt;&lt;img alt="" height="343" src="./../images/自動咖啡磨豆機繪製圖 (2).png" width="500"/&gt;&lt;/p&gt;
+    
 &lt;/section&gt;
 
 </t>
@@ -308,6 +310,12 @@ vertical: body pane on the botton</t>
     &lt;/p&gt;
 &lt;/section&gt;
 
+</t>
+<t tx="lep.20210317190537.1">&lt;section&gt;
+    &lt;h3&gt;錐刀組&lt;/h3&gt;
+    &lt;p&gt;&lt;img alt="" height="281" src="./../images/錐刀組.png" width="500"/&gt;&lt;/p&gt;
+    
+&lt;/section&gt;
 </t>
 </tnodes>
 </leo_file>
