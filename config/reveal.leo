@@ -33,16 +33,13 @@
 <v t="lep.20210318004614.1"><vh>slide4-9</vh></v>
 </v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh>
-<v t="lep.20210318001822.1"><vh>slide5-1</vh></v>
-<v t="lep.20210318002609.1"><vh>slide5-2</vh></v>
-<v t="lep.20210318002843.1"><vh>slide5-3</vh></v>
-<v t="lep.20210318003123.1"><vh>slide5-4</vh></v>
+<v t="leo.20200818171215.1"><vh>slide5-1</vh></v>
+<v t="lep.20210318025530.1"><vh>slide5-2</vh></v>
+<v t="lep.20210318025837.1"><vh>slide5-3</vh></v>
 </v>
-<v t="leo.20200818171215.1"><vh>slide 6</vh>
-<v t="lep.20210318025530.1"><vh>slide6-1</vh></v>
-<v t="lep.20210318025837.1"><vh>slide6-2</vh></v>
-</v>
-<v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
+<v t="leo.20200818171244.1"><vh>slide 6</vh></v>
+<v t="lep.20210318213523.1"><vh>slide 7</vh></v>
+<v t="lep.20210318213530.1"><vh>slide 8</vh></v>
 </v>
 </v>
 </v>
@@ -231,8 +228,7 @@ vertical: body pane on the botton</t>
 
 
 </t>
-<t tx="leo.20200818171215.1">&lt;section&gt;
-     &lt;section&gt;
+<t tx="leo.20200818171215.1">     &lt;section&gt;
      &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
      &lt;h5&gt;第一次測試模擬&lt;/h5&gt;
      &lt;p&gt;&lt;img caption="false" height="300" src="./../images/測試.gif" width="550"/&gt;&lt;/p&gt;
@@ -271,7 +267,6 @@ vertical: body pane on the botton</t>
 <t tx="lep.20210317192729.1">    &lt;section&gt;
     &lt;h3&gt;錐型進豆槽與外殼&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="304" src="./../images/錐刀組與外殼.png" width="500"/&gt;&lt;/p&gt;
-    
     &lt;/section&gt;</t>
 <t tx="lep.20210317192736.1">    &lt;section&gt;
     &lt;h3&gt;上蓋&lt;/h3&gt;
@@ -283,28 +278,6 @@ vertical: body pane on the botton</t>
     &lt;p&gt;&lt;img alt="" height="322" src="./../images/分量波粉器.png" width="500"/&gt;&lt;/p&gt;
     &lt;/section&gt;
     </t>
-<t tx="lep.20210318001822.1">    &lt;section&gt;
-    &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="497" src="./../images/磨豆機圖片.png" width="500"/&gt;&lt;/p&gt;
-    &lt;h3&gt;Body-本體 Shell-外殼 Upper_cover-上蓋  revolute_cover-旋轉接頭  axis-旋轉軸&lt;/h3&gt;
-    &lt;/section&gt;</t>
-<t tx="lep.20210318002609.1">    &lt;section&gt;
-    &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
-    &lt;/p&gt;&lt;p&gt;&lt;img alt="" height="400" src="./../images/本體.png" width="400"/&gt;&lt;/p&gt;
-    &lt;h4&gt;設定本體的動態特性&lt;/h4&gt;    
-    &lt;/section&gt;</t>
-<t tx="lep.20210318002843.1">    &lt;section&gt;
-    &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="400" src="./../images/旋轉軸數據.png" width="400"/&gt;&lt;/p&gt;
-    &lt;h4&gt;設定旋轉軸的動態特性&lt;/h4&gt;    
-    &lt;/section&gt;</t>
-<t tx="lep.20210318003123.1">    &lt;section&gt;
-    &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="400" src="./../images/馬達.png" width="400"/&gt;&lt;/p&gt;
-    &lt;h4&gt;設定馬達的動態特性&lt;/h4&gt;    
-    &lt;/section&gt;
-&lt;/section&gt;
-</t>
 <t tx="lep.20210318004530.1">    &lt;section&gt;
     &lt;h3&gt;外殼&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="334" src="./../images/外殼.png" width="500"/&gt;&lt;/p&gt;
@@ -319,7 +292,7 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
     &lt;h5&gt;第二次測試模擬&lt;/h5&gt;
     &lt;p&gt;&lt;img alt="" height="295" src="./../images/測試2.gif" width="550"/&gt;&lt;/p&gt;
-    &lt;h6&gt;發現問題的所在，並進行程式的修改，旋轉軸正常的運作，缺乏外殼。&lt;/h6&gt;
+    &lt;h6&gt;發現問題的所在，並進行程式的修改，旋轉軸正常的運作，尚未加上外殼。&lt;/h6&gt;
     &lt;/section&gt;</t>
 <t tx="lep.20210318025837.1">    &lt;section&gt;
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
@@ -327,6 +300,14 @@ vertical: body pane on the botton</t>
     &lt;p&gt;&lt;img alt="" height="295" src="./../images/磨豆機完整版.gif" width="550"/&gt;&lt;/p&gt;
     &lt;h6&gt;增加外殼後，因進行內部旋轉軸的測試，使外殼隱藏，而內部能正常運作。&lt;/h6&gt;
     &lt;/section&gt;
+&lt;/section&gt;</t>
+<t tx="lep.20210318213523.1">&lt;section&gt;
+            &lt;h2&gt;40823222心得&lt;/h2&gt;
+            &lt;h4&gt; &lt;/h4&gt;
+&lt;/section&gt;</t>
+<t tx="lep.20210318213530.1">&lt;section&gt;
+            &lt;h2&gt;40823244心得&lt;/h2&gt;
+            &lt;h4&gt; &lt;/h4&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
