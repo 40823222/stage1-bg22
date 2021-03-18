@@ -38,6 +38,7 @@
 <v t="lep.20210318025837.1"><vh>slide5-3</vh></v>
 </v>
 <v t="leo.20200818171244.1"><vh>slide 6</vh></v>
+<v t="lep.20210318231545.1"><vh>slide6</vh></v>
 <v t="lep.20210318213523.1"><vh>slide 7</vh></v>
 <v t="lep.20210318213530.1"><vh>slide 8</vh></v>
 </v>
@@ -303,11 +304,16 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="lep.20210318213523.1">&lt;section&gt;        
             &lt;h2&gt;40823222心得&lt;/h2&gt;
-            &lt;h4&gt; &lt;/h4&gt;
+            &lt;h4&gt;這次跟組員討論出來要做自動磨豆機，因為有時會品嘗咖啡的口感，所以聯想到要做個磨豆機，雖然與市面上的產品有所差異，但做出來還是有成就感，這次我的組員是負責繪圖，而我是使用程式模擬，一開始模擬時出現很多差錯，但經由慢慢摸索，也得到其他同學的協助，才能使程式可以運作出來，希望之後的四人小組、八人小組的也可以順順利利的完成&lt;/h4&gt;
 &lt;/section&gt;</t>
 <t tx="lep.20210318213530.1">&lt;section&gt;
             &lt;h2&gt;40823244心得&lt;/h2&gt;
-            &lt;h4&gt; &lt;/h4&gt;
+            &lt;h4&gt;這次兩人一組的專題，在經過多次的討論後，決定要做磨豆機，雖然東西可能看起來跟市面上的造型、功能上有些許差異，甚至離製作實體的路還有很長一段路，但從零到有一步一步把零件做出來，我覺得很開心，並且在組員的幫助下完成模擬，希望在未來不管是四人小組或是八人小組上都能順順利利。&lt;/h4&gt;
+&lt;/section&gt;</t>
+<t tx="lep.20210318231545.1">&lt;section&gt;
+             
+             &lt;h2&gt;自動磨豆機.pdf檔&lt;/h2&gt;
+             &lt;p&gt;&lt;a href="./../downloads/兩人一組.pdf"&gt;自動磨豆機.pdf&lt;/a&gt;&lt;/p&gt;            
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
