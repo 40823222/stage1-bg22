@@ -236,12 +236,12 @@ vertical: body pane on the botton</t>
      &lt;/section&gt;
 </t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
-             &lt;section&gt;
+             
              &lt;h2&gt;使用cms.bat、acp.bat&lt;/h2&gt;
              &lt;img alt="" height="314" src="./../images/cms.gif" width="600"/&gt;
              &lt;h6&gt;節省時間打開動態網頁，推送網站，之後會有4人、8人小組進行推送的動作，使用cms.bat、acp.bat能夠更方便的進行操作&lt;/h6&gt;
-             &lt;/section&gt;
-&lt;section&gt;</t>
+             
+&lt;/section&gt;</t>
 <t tx="lep.20210317190537.1">    &lt;section&gt;
     &lt;h3&gt;錐刀組&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="359" src="./../images/錐刀.png" width="500"/&gt;&lt;/p&gt;
@@ -301,7 +301,7 @@ vertical: body pane on the botton</t>
     &lt;h6&gt;增加外殼後，因進行內部旋轉軸的測試，使外殼隱藏，而內部能正常運作。&lt;/h6&gt;
     &lt;/section&gt;
 &lt;/section&gt;</t>
-<t tx="lep.20210318213523.1">&lt;section&gt;
+<t tx="lep.20210318213523.1">&lt;section&gt;        
             &lt;h2&gt;40823222心得&lt;/h2&gt;
             &lt;h4&gt; &lt;/h4&gt;
 &lt;/section&gt;</t>
