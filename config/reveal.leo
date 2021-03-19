@@ -267,7 +267,7 @@ vertical: body pane on the botton</t>
     &lt;/section&gt;</t>
 <t tx="lep.20210317192729.1">    &lt;section&gt;
     &lt;h3&gt;錐型進豆槽與外殼&lt;/h3&gt;
-    &lt;p&gt;&lt;img alt="" height="304" src="./../images/錐刀組與外殼.png" width="500"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="281" src="./../images/錐行進豆槽與外殼.png" width="500"/&gt;&lt;/p&gt;
     &lt;/section&gt;</t>
 <t tx="lep.20210317192736.1">    &lt;section&gt;
     &lt;h3&gt;上蓋&lt;/h3&gt;
