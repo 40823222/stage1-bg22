@@ -130,11 +130,13 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="leo.20200818165234.1">@language xml
 @tabwidth -4
-@others</t>
+@others
+</t>
 <t tx="leo.20200818165301.1">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
-&lt;/html&gt;</t>
+&lt;/html&gt;
+</t>
 <t tx="leo.20200818165413.1">&lt;body&gt;
 @others
     &lt;script src="dist/reveal.js"&gt;&lt;/script&gt;
@@ -158,7 +160,8 @@ vertical: body pane on the botton</t>
         });
 
     &lt;/script&gt;
-&lt;/body&gt;</t>
+&lt;/body&gt;
+</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
@@ -178,14 +181,17 @@ vertical: body pane on the botton</t>
 
     &lt;!-- Theme used for syntax highlighting of code --&gt;
     &lt;link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme"&gt;
-&lt;/head&gt;</t>
+&lt;/head&gt;
+</t>
 <t tx="leo.20200818170041.1">&lt;div class="reveal"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170222.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
 &lt;div class="slides"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
             &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
             &lt;h2&gt;stage1-bg22&lt;/h2&gt;
@@ -242,7 +248,8 @@ vertical: body pane on the botton</t>
              &lt;img alt="" height="314" src="./../images/cms.gif" width="600"/&gt;
              &lt;h6&gt;節省時間打開動態網頁，推送網站，之後會有4人、8人小組進行推送的動作，使用cms.bat、acp.bat能夠更方便的進行操作&lt;/h6&gt;
              
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="lep.20210317190537.1">    &lt;section&gt;
     &lt;h3&gt;錐刀組&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="359" src="./../images/錐刀.png" width="500"/&gt;&lt;/p&gt;
@@ -259,61 +266,73 @@ vertical: body pane on the botton</t>
     &lt;h3&gt;漏斗&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="373" src="./../images/漏斗.png" width="500"/&gt;&lt;/p&gt;
     
-    &lt;/section&gt;</t>
+    &lt;/section&gt;
+</t>
 <t tx="lep.20210317192711.1">    &lt;section&gt;
     &lt;h3&gt;錐刀組與外殼&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="304" src="./../images/錐刀組與外殼.png" width="500"/&gt;&lt;/p&gt;
     
-    &lt;/section&gt;</t>
+    &lt;/section&gt;
+</t>
 <t tx="lep.20210317192729.1">    &lt;section&gt;
     &lt;h3&gt;錐型進豆槽與外殼&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="281" src="./../images/錐行進豆槽與外殼.png" width="500"/&gt;&lt;/p&gt;
-    &lt;/section&gt;</t>
+    &lt;/section&gt;
+</t>
 <t tx="lep.20210317192736.1">    &lt;section&gt;
     &lt;h3&gt;上蓋&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="278" src="./../images/上蓋.png" width="500"/&gt;&lt;/p&gt;
     
-    &lt;/section&gt;</t>
+    &lt;/section&gt;
+</t>
 <t tx="lep.20210317192801.1">    &lt;section&gt;
     &lt;h3&gt;分量撥粉器&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="322" src="./../images/分量波粉器.png" width="500"/&gt;&lt;/p&gt;
     &lt;/section&gt;
-    </t>
+    
+</t>
 <t tx="lep.20210318004530.1">    &lt;section&gt;
     &lt;h3&gt;外殼&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="334" src="./../images/外殼.png" width="500"/&gt;&lt;/p&gt;
     &lt;/section&gt;
-    </t>
+    
+</t>
 <t tx="lep.20210318004614.1">    &lt;section&gt;
     &lt;h3&gt;裝粉盒&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="301" src="./../images/裝粉盒.png" width="500"/&gt;&lt;/p&gt;
     &lt;/section&gt;
-&lt;/section&gt;    </t>
+&lt;/section&gt;    
+</t>
 <t tx="lep.20210318025530.1">    &lt;section&gt;
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
     &lt;h5&gt;第二次測試模擬&lt;/h5&gt;
     &lt;p&gt;&lt;img alt="" height="295" src="./../images/測試2.gif" width="550"/&gt;&lt;/p&gt;
     &lt;h6&gt;發現問題的所在，並進行程式的修改，旋轉軸正常的運作，尚未加上外殼。&lt;/h6&gt;
-    &lt;/section&gt;</t>
+    &lt;/section&gt;
+</t>
 <t tx="lep.20210318025837.1">    &lt;section&gt;
     &lt;h2&gt;CoppeliaSim模擬&lt;/h2&gt;
     &lt;h5&gt;第三次測試模擬&lt;/h5&gt;
     &lt;p&gt;&lt;img alt="" height="295" src="./../images/磨豆機完整版.gif" width="550"/&gt;&lt;/p&gt;
     &lt;h6&gt;增加外殼後，因進行內部旋轉軸的測試，使外殼隱藏，而內部能正常運作。&lt;/h6&gt;
     &lt;/section&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="lep.20210318213523.1">&lt;section&gt;        
             &lt;h2&gt;40823222心得&lt;/h2&gt;
-            &lt;h4&gt;這次跟組員討論出來要做自動磨豆機，因為有時會品嘗咖啡的口感，所以聯想到要做個磨豆機，雖然與市面上的產品有所差異，但做出來還是有成就感，這次我的組員是負責繪圖，而我是使用程式模擬，一開始模擬時出現很多差錯，但經由慢慢摸索，也得到其他同學的協助，才能使程式可以運作出來，希望之後的四人小組、八人小組的也可以順順利利的完成。&lt;/h4&gt;
-&lt;/section&gt;</t>
+            &lt;h4&gt;這次跟組員討論出來要做自動磨豆機，因為有時會品嘗咖啡的口感，所以聯想到要做個磨豆機，雖然與市面上的產品有所差異，但做出來還是有成就感，這次我的組員是負責繪圖，而我是使用程式模擬，一開始模擬時出現很多差錯，但經由慢慢摸索，也得到其他同學的協助，才能使程式可以運作出來，希望之後的四人小組、八人小組的也可以順順利利的完成.&lt;/h4&gt;
+&lt;/section&gt;
+</t>
 <t tx="lep.20210318213530.1">&lt;section&gt;
             &lt;h2&gt;40823244心得&lt;/h2&gt;
             &lt;h4&gt;這次兩人一組的專題，在經過多次的討論後，決定要做磨豆機，雖然東西可能看起來跟市面上的造型、功能上有些許差異，甚至離製作實體的路還有很長一段路，但從零到有一步一步把零件做出來，我覺得很開心，並且在組員的幫助下完成模擬，希望在未來不管是四人小組或是八人小組上都能順順利利。&lt;/h4&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="lep.20210318231545.1">&lt;section&gt;
              
              &lt;h2&gt;自動磨豆機.pdf檔&lt;/h2&gt;
              &lt;p&gt;&lt;a href="./../downloads/兩人一組.pdf"&gt;自動磨豆機.pdf&lt;/a&gt;&lt;/p&gt;            
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
